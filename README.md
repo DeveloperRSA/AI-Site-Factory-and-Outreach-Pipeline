@@ -5,6 +5,7 @@ This project is an end-to-end automation system that collects business data, cle
 ### Frontend
 - React
 - Tailwind CSS
+- https://ai-site-factory-frontend.vercel.app/ 
 ### Backend
 - Python(FastAPI)
 ### Database
