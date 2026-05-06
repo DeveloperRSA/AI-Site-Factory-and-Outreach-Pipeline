@@ -10,6 +10,7 @@ This project is an end-to-end automation system that collects business data, cle
 ### Backend
 - Python(FastAPI)
 - Render(Deployment)
+- https://ai-site-factory-backend.onrender.com/docs
 ### Database
 - PostgreSQL(/SQLite)
 
